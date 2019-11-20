@@ -1,8 +1,6 @@
 # Lists-Functions-and-String-handling
 
-## Task 1
-
-* Visit the website: h​ ttp://www.cbs.dtu.dk/courses/27619/codon.html
+* Visit the website: http://www.cbs.dtu.dk/courses/27619/codon.html
 
 * Note the 'SLC' code for each Amino Acid.
 
@@ -15,8 +13,6 @@
 * There are many different amino acids, so this may get a bit repetitive. Just do the first five Amino Acids (i.e I, L, V, F M) and make any other codon be printed as the amino acid 'X' . So basically, you would use an if - elif - elif .... else structure to translate each codon of DNA into the correct Amino Acid.
 
 * Note that the program must be able to handle DNA sequences that are not of a length divisible by 3.
-
-## Task 2
 
 * Add another function to the program **SickleCellDisease.py** called **mutate**. This function must read the contents of the text file named **DNA.txt**. It must then identify the first occurrence of the lowercase letter 'a' in **DNA.txt**.
 
